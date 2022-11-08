@@ -8,7 +8,7 @@ Gellir ychwanegu'r ystorfa hon fel **estyniad** yn MakeCode.
 * agor [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliciwch ar **Prosiect Newydd**
 * cliciwch ar **Estyniadau** dan y ddewislen gêr
-* chwilio am **https://github.com/spufidoo/micro-chat** a mewngludo
+* chwilio am [https://github.com/spufidoo/micro-chat/](https://github.com/spufidoo/micro-chat/) a mewngludo
 
 ## Golygu'r prosiect hwn ![Datblygu bathodyn statws](https://github.com/spufidoo/micro-chat/workflows/MakeCode/badge.svg)
 
@@ -16,7 +16,7 @@ I olygu'r ystorfa hon yn MakeCode.
 
 * agor [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliciwch ar **Mewngludo** wedyn cliciwch ar **Mewngludo URL**
-* gludo **https://github.com/spufidoo/micro-chat** a chlicio mewngludo
+* gludo [https://github.com/spufidoo/micro-chat/](https://github.com/spufidoo/micro-chat/) a chlicio mewngludo
 
 ## Rhagolwg blociau
 
